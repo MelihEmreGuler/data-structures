@@ -1,0 +1,6 @@
+String tipinde bir tek yönlü bağlı liste oluşturun. Kullanıcıdan aldığı seçime göre; 
+a-Dışarıdan alınan veriyi listeye ekleyin. 
+b-Listeden indeks değerine göre silme işlemi yapın. 
+c-Listenin eleman sayısını döndürün. 
+d-Listeyi tersten yazdırın. 
+e-Dışarıdan alınan veriyi liste içerisinde arayın, sonuç olarak aranan veri listede x. sırasındadır diyerek indis değerini döndürün.
