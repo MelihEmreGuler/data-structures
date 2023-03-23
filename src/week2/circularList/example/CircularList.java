@@ -41,7 +41,6 @@ public class CircularList {
             while (newNode.data > iter.next.data && iter.next != this.root){ //if big and different from the root
                 iter = iter.next;
             }
-            System.out.println("flag");
             // adding between two nodes
             Node temporary = iter.next;
             iter.next =newNode;
