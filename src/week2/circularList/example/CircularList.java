@@ -47,36 +47,6 @@ public class CircularList {
             iter.next.next = temporary;
         }
     }
-    /*
-    {
-		Node iter=liste.root;
-
-		//eğer silinecek düğüm root ise
-		if(liste.root.data==silinecekData)
-		{
-			while(iter.next!=liste.root)
-				iter=iter.next;
-
-			iter.next=liste.root.next;
-			liste.root=liste.root.next;
-		}
-
-		else
-		{
-		while(iter.next!=liste.root &&
-				iter.next.data!=silinecekData)
-			iter=iter.next;
-
-		if(iter.next==liste.root)
-		System.out.println("Silinecek data listede yok.");
-
-		else
-			iter.next=iter.next.next;
-		}
-
-		return liste;
-	}
-     */
 
     void delete(int data){
         Node iter = this.root;
