@@ -1,4 +1,4 @@
-package week1.linkedListHomework;
+package week1.linkedList.homework;
 
 
 public class LinkedList {

@@ -1,4 +1,4 @@
-package week1.linkedListHomework;
+package week1.linkedList.homework;
 import java.util.Scanner;
 
 public abstract class UserInterface {

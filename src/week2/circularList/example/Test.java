@@ -1,4 +1,4 @@
-package week2.circularListExample;
+package week2.circularList.example;
 
 public class Test {
     public static void main(String[] args) {

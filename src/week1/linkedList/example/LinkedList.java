@@ -1,4 +1,4 @@
-package week1.linkedListExample;
+package week1.linkedList.example;
 
 public class LinkedList {
 	Node root;
